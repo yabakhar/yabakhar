@@ -20,15 +20,15 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yabakhar&show_icons=true&theme=algolia)<br>
+![yabakhar's github stats](https://github-readme-stats.vercel.app/api?username=yabakhar&show_icons=true&theme=algolia)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yabakhar&langs_count=8&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=yabakhar)](https://github.com/yabakhar)
 
 ### Connect with me:
 
-[<img align="left" alt="chadi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#)
-[<img align="left" alt="chadinaour | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/youssef-abakhar-902652161/)
+[<img align="left" alt="yabakhar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#)
+[<img align="left" alt="yabakhar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/youssef-abakhar-902652161/)
 [<img align="left" alt="yabakhar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/abakhar_youssef/)
 
 <br />
